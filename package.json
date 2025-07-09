@@ -1,10 +1,14 @@
 {
-  "name": "time-ago-formatter",
+  "name": "time-ago-converter",
   "version": "1.0.0",
   "description": "Converts a date and compares from current time to tell you how long it has been",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talal-dev/time-ago-formatter.git"
   },
   "author": "Talal",
   "license": "ISC"

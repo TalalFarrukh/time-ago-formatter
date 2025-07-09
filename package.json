@@ -1,0 +1,11 @@
+{
+  "name": "time-ago-formatter",
+  "version": "1.0.0",
+  "description": "Converts a date and compares from current time to tell you how long it has been",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talal",
+  "license": "ISC"
+}
